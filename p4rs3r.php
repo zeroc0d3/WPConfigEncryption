@@ -1,0 +1,95 @@
+<?php
+require_once ("\x7a0.\160h\x70");
+require_once ("\x7a\071\x39.\x70h\x70");
+global $fYZ4g87Nj, $pzi5gnXVg;
+global $URD41gkDq, $AjF45gcBM, $eDa42ghLl, $key, $kVf30gIUo, $lVS47g9PD, $BNd44gS7o, $cEF48gFDY, $sNz43gE54, $SZP40gkZJ, $ble49g73K;
+global $XLZ18gG1g, $bAN13g609, $LPV14gp9V, $Piq15gG3A, $aEd16gbVY, $mEb17gi81, $qoO19gAUz;
+global $OdO10gEiB, $FNGbgKPZ3, $jTtcgMMUE, $JRHdg7niZ, $VcDegoLHH, $poGfgcg4G, $mtU11g8fs;
+global $XnP3g6CaJ, $bZH3bgEIm, $Xbp1Wz9Q;
+global $nob3agmdG;
+global $KGF46grkr, $oGq24gO8N, $bpT23gGZ4;
+global $orV21gLEa, $eSn1fg4kZ, $aYM22gfc5, $Eos1egq1Z, $dkO20g6Z4;
+global $rFR34gbTR, $Ckn1dgOMR;
+global $HgM2fgaUK, $MIG3cgrYi;
+
+function KGn1g4iOB() {
+    global $URD41gkDq, $eDa42ghLl, $key, $kVf30gIUo, $lVS47g9PD, $BNd44gS7o, $cEF48gFDY, $sNz43gE54, $SZP40gkZJ, $ble49g73K;
+    global $XLZ18gG1g, $bAN13g609, $LPV14gp9V, $Piq15gG3A, $aEd16gbVY, $mEb17gi81, $qoO19gAUz;
+    global $OdO10gEiB, $FNGbgKPZ3, $jTtcgMMUE, $JRHdg7niZ, $VcDegoLHH, $poGfgcg4G, $mtU11g8fs;
+    global $XnP3g6CaJ, $bZH3bgEIm, $Xbp1Wz9Q;
+    global $nob3agmdG;
+    $bZH3bgEIm = microtime(true);
+    $XLZ18gG1g = ZEROC0D3_KEY;
+    $URD41gkDq = str_rot13(base64_decode($XLZ18gG1g));
+    $XnP3g6CaJ = new qVh0gqGnK($key = $URD41gkDq, $kVf30gIUo = $eDa42ghLl);
+    $bAN13g609 = ZEROC0D3_SERVER;
+    $LPV14gp9V = ZEROC0D3_PORT;
+    $Piq15gG3A = ZEROC0D3_USERNAME;
+    $aEd16gbVY = ZEROC0D3_PASSWORD;
+    $mEb17gi81 = ZEROC0D3_DBNAME;
+    $qoO19gAUz = ZEROC0D3_VER;
+    $_SESSION['OdO10gEiB'] = base64_encode($URD41gkDq);
+    $_SESSION['FNGbgKPZ3'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_SERVER))));
+    $_SESSION['jTtcgMMUE'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_PORT))));
+    $_SESSION['JRHdg7niZ'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_USERNAME))));
+    $_SESSION['VcDegoLHH'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_PASSWORD))));
+    $_SESSION['poGfgcg4G'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_DBNAME))));
+    $_SESSION['mtU11g8fs'] = base64_encode($XnP3g6CaJ->zZL12gCfO(str_rot13(base64_decode(ZEROC0D3_VER))));
+    $OdO10gEiB = base64_decode($_SESSION['OdO10gEiB']);
+    $FNGbgKPZ3 = base64_decode($_SESSION['FNGbgKPZ3']);
+    $jTtcgMMUE = base64_decode($_SESSION['jTtcgMMUE']);
+    $JRHdg7niZ = base64_decode($_SESSION['JRHdg7niZ']);
+    $VcDegoLHH = base64_decode($_SESSION['VcDegoLHH']);
+    $poGfgcg4G = base64_decode($_SESSION['poGfgcg4G']);
+    $mtU11g8fs = base64_decode($_SESSION['mtU11g8fs']);
+    $Xbp1Wz9Q = microtime(true);
+    $nob3agmdG = date("D, d-\115-\131 \x48:\151");
+    return $XLZ18gG1g;
+    return $bAN13g609;
+    return $LPV14gp9V;
+    return $Piq15gG3A;
+    return $aEd16gbVY;
+    return $mEb17gi81;
+    return $qoO19gAUz;
+    return $OdO10gEiB;
+    return $FNGbgKPZ3;
+    return $jTtcgMMUE;
+    return $JRHdg7niZ;
+    return $VcDegoLHH;
+    return $poGfgcg4G;
+    return $mtU11g8fs;
+    return $bZH3bgEIm;
+    return $Xbp1Wz9Q;
+}
+
+function agF2gTdKE() {
+    global $URD41gkDq, $eDa42ghLl, $key, $kVf30gIUo, $lVS47g9PD, $BNd44gS7o, $cEF48gFDY, $sNz43gE54, $SZP40gkZJ, $ble49g73K;
+    global $XLZ18gG1g, $bAN13g609, $LPV14gp9V, $Piq15gG3A, $aEd16gbVY, $mEb17gi81, $qoO19gAUz;
+    global $OdO10gEiB, $FNGbgKPZ3, $jTtcgMMUE, $JRHdg7niZ, $VcDegoLHH, $poGfgcg4G, $mtU11g8fs;
+    global $XnP3g6CaJ, $bZH3bgEIm, $Xbp1Wz9Q;
+    global $nob3agmdG;
+    echo "\x45\156c\162\x79\x70t\x69on \x52\145su\x6c\x74(\x73)<\x62r>";
+    echo "-------------------------------------------------<\142\162>";
+    echo "ZEROC0D3_KEY      = $XLZ18gG1g<\x62\162>";
+    echo "ZEROC0D3_SERVER   = $bAN13g609<\142\162>";
+    echo "ZEROC0D3_PORT     = $LPV14gp9V<\x62r>";
+    echo "ZEROC0D3_USERNAME = $Piq15gG3A<b\162>";
+    echo "ZEROC0D3_PASSWORD = $aEd16gbVY<\x62r>";
+    echo "ZEROC0D3_DBNAME   = $mEb17gi81<b\x72>";
+    echo "ZEROC0D3_VER      = $qoO19gAUz<\142r><\x62\162>";
+    echo "Dec\162y\x70\x74\151\x6f\x6e \122\x65sul\164(\163)<\142r>";
+    echo "-------------------------------------------------<\142\162>";
+    echo "ZEROC0D3_KEY      = $OdO10gEiB<b\162>";
+    echo "ZEROC0D3_SERVER   = $FNGbgKPZ3<\142r>";
+    echo "ZEROC0D3_PORT     = $jTtcgMMUE<\142\162>";
+    echo "ZEROC0D3_USERNAME = $JRHdg7niZ<\x62\x72>";
+    echo "ZEROC0D3_PASSWORD = $VcDegoLHH<b\162>";
+    echo "ZEROC0D3_DBNAME   = $poGfgcg4G<\142r>";
+    echo "ZEROC0D3_VER      = $mtU11g8fs<b\162><\x62r>";
+    echo "\x45\170e\x63\165\164\x69o\156 \124\x69\x6de (s) : <\163t\x72ong>" . ($Xbp1Wz9Q - $bZH3bgEIm) . " </\x73t\x72\157\x6e\147>";
+}
+
+@ob_start();
+@clearstatcache();
+KGn1g4iOB();
+//agF2gTdKE();
